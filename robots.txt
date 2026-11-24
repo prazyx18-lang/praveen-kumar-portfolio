@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# After you publish, add your sitemap address here if you create one:
+# Sitemap: https://YOUR-PORTFOLIO-DOMAIN/sitemap.xml
